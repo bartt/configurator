@@ -1,0 +1,14 @@
+{ "name": "configurator"
+, "description": "Flexible JSON based configurations with inheritence"
+, "version": "0.1.0"
+, "author": "Bart Teeuwisse <bart@zazengo.com>"
+, "contributors": [
+    { "name": "Bart Teeuwisse", "email": "bart@zazengo.com" }
+  ]
+, "dependencies": {
+    "yui3": ">= 0.5.9"
+  }
+, "keywords": ["zazengo", "configuration"]
+, "directories": { "lib": "./lib/configurator" }
+, "engines": { "node": ">= 0.2.4" }
+}
