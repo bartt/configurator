@@ -1,6 +1,6 @@
 { "name": "configurator"
 , "description": "Flexible JSON based configurations with inheritence"
-, "version": "0.1.0"
+, "version": "0.1.1"
 , "author": "Bart Teeuwisse <bart@zazengo.com>"
 , "contributors": [
     { "name": "Bart Teeuwisse", "email": "bart@zazengo.com" }
